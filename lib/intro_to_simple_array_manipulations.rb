@@ -9,3 +9,6 @@ def using_unshift (array,string)
   string = "Staten Island"
   array.unshift(string)
 end
+
+def using_pop (array)
+  
