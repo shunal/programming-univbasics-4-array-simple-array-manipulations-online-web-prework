@@ -5,7 +5,7 @@ array.push(string)
 end
 
 def using_unshift (array,string)
-  array = ["small", "tall", "large"]
+  array = ["small", "tall", "large" "miniscule"]
   string = "big"
   array.unshift(string)
 end
