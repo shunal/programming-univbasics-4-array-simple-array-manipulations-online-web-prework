@@ -5,7 +5,7 @@ array.push(string)
 end
 
 def using_unshift (array,string)
-  array = ["small", "tall", "large" "miniscule"]
-  string = "big"
+  array = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  string = "Staten Island"
   array.unshift(string)
 end
