@@ -1,4 +1,6 @@
-def colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-next_color = "violet"
-colors_in_the_rainbow.push(next_color)
+def using_push(array, string)
+
+array = ["red", "orange", "yellow", "green", "blue", "indigo"]
+string = "violet"
+array.push(string)
 end
